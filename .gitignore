@@ -1,0 +1,9 @@
+*.swp
+venv/
+__pycache__
+db/migrations/
+*.db
+*.log
+*.out
+*.csv
+analysis*.txt
