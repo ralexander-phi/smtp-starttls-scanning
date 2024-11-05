@@ -18,3 +18,7 @@ For each mail server:
 Try the scan.sh script.
 Be sure to download a domain list from Cloudflare Radar.
 
+
+## Results
+
+[See blog post](https://alexsci.com/blog/is-email-confidential-in-transit-yet/)
